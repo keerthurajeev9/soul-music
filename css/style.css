@@ -1,0 +1,622 @@
+html,body{
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    
+}
+#home{
+    font-family: 'Montserrat';
+    font-size:18px;
+   width:100%;
+
+}
+.navbar{
+    font-family: 'Montserrat';
+
+}
+
+.navbar-nav li{
+    padding-right:.3rem;
+}
+
+
+  .navbar-collapse {
+    background-color: #08192D;
+    color: #FFFFFF;
+    z-index: 2;
+}
+.carousel{
+    z-index: -1;
+    background:#0A183D;
+    height: 840px;
+    width: 100%;
+}
+.content{
+margin-left: 210px;
+padding-top: 150px;
+}
+.span1{
+    color: #FC0254;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+
+}
+.span2{
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+.button1,.button3    {
+    background-color:#F10353;
+   
+}
+.button1,.button2,.button3{
+    width: 200px;
+    border: none;
+    height:70px;
+    color:white;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+.button2 {
+    background-color:#252C5A;
+}
+.button3    {
+    background-color:#F10353;
+    margin-top: 20px;
+}
+.button4{
+    display:block;
+    margin:auto;
+}
+   
+
+.buttons{
+    margin-top:40px;
+}
+.guitarist{
+    float:right;
+    height:450px;
+}
+.guitarist2{
+display: none;
+}
+.lorem{
+ color: white;
+
+}
+.jumb{
+    background-color: white;
+    height:430px;
+    display:flex;
+}
+.jumb1{
+    font-size:60px;
+    font-weight: bold;
+}
+.jumb2{
+    font-size:16px;
+    color: #9DA1AB;
+    font-weight: 400;
+}
+.row1,.row2{
+    padding-left:100px;
+    padding-top: 100px;
+}
+.emoji{
+    background-image: url(music3.jpg);
+    height:500px;
+    width:1600px;
+     background-repeat: no-repeat;
+}
+.image1{
+    height:90px;
+    width:90px;
+}
+.artist img {
+    height:300px;
+    padding-top: 30px;
+    border-radius:60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+   
+}
+
+h5{
+    text-align: center;
+    color: black;
+   
+    margin-top:20px;
+}
+.sub{
+    margin-top:110px;
+   margin-bottom: 50px;
+}
+.sub1{
+    margin:auto;
+}
+.button4{
+    font-weight: bold;
+    background-color: #FC0254;
+    color: white;
+    text-align: center;
+    cursor:pointer;
+    display:inline-block;
+    font-size: 14px;
+    border:none;
+    border-radius: 45px;
+    text-decoration: none;
+    padding:20px 20px 20px;
+}
+
+a:hover{
+    color:white;
+    text-decoration: none;
+}
+.list{
+    background-color: #1c294a;
+    color:white;
+    border-radius:50px;
+    list-style: none;
+    font-size:20px;
+    margin-right:50px;
+    padding:22px 22px;
+    margin-top:80px ;
+    margin-left:50px;
+
+}
+.prem img {
+    height:220px;
+    padding-top: 30px;
+    border-radius:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 190px;
+   
+}
+h4{
+    padding-top:35px;
+    text-align: center;
+}
+.mike{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #686868;
+}
+.footer{
+    background-color: #08192D;
+}
+.end{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+
+h5{
+    text-align:center;
+    margin-top: 30px;
+}
+.logo{
+    widows: 42px;
+    margin-bottom: 30px;
+    height:35px;
+    padding-left:20px;   
+}
+.play-title{
+    margin-top: 90px;
+    font-size:50px;
+}
+
+
+  
+  .filter-btn ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .block ul li {
+    margin-top:30px;
+   display: inline-block;
+   font-size: 16px;
+    font-weight: 500;
+    color: #6a7080;
+    padding: 20px 10px 16px;
+    cursor: pointer;
+    text-align: center;
+    padding-right: 40px;
+    
+    
+  }
+  .record p{
+      font-size:17px;
+      text-align: center;
+      font-weight: 700;
+      color: black;
+      display:block;
+        
+  }
+  
+  .search2{
+      margin-top:170px;
+     
+  }
+  .button5{
+    border: none;
+    font-weight: bold;
+    background-color: #FC0254;
+    color: white;
+    margin-left:280px;
+    cursor:pointer;
+    display:inline-block;
+    font-size: 14px;
+    border-radius: 45px;
+    text-decoration: none;
+    margin-top: 15px;
+    width: 130px;
+    height:50px;
+    text-transform: uppercase;
+  }
+  .form-box{
+    border-radius:60px;
+    font-size: 15px;
+    padding:20 px 20px;
+    background: #d0d7db;
+    height:60px;
+    text-align: center;
+    width: 700px;
+    color: white;
+  }
+  .collection-music{
+      display: block;
+      margin:  1rem auto;
+  }
+ 
+
+  .record img{
+      width:250px;
+      height:250px;
+      border-radius:50px;
+      margin-bottom: 30px;
+      margin-top: 100px;
+      margin-left:auto;
+      transition: transform 0.2s;
+      
+  }
+  .record img:hover{
+      vertical-align: middle;
+      transform: scale(1.2);
+  }
+  .blog-item img{
+    margin-bottom: 36px;
+    width: 100%;
+    vertical-align: middle;
+    
+  }
+  .page-no a{
+      padding:4px 8px;
+      font-weight: bold;
+      font-size: 13;
+      color: black;
+      background-color: silver;
+      border-radius: 50%;
+      display: inline-block;
+  }
+  .page-no a:hover{
+    border-bottom: 5px solid #fc0254;
+}
+  .blog-item img:hover{
+    transform: scale(1.1);
+    transition: linear;
+  }
+  .blog-item{
+      margin-top:60px;
+  }
+  .blog-item h1{
+    margin-bottom: 5px;
+  }
+  .blog-content{
+    font-size: 14px;
+    margin-bottom: 0;
+    line-height: 1.8;
+    color:#6a7080;
+
+  }
+  .date{
+    font-size: 16px;
+    font-weight: 600;
+    color: #fc0254;
+    margin-bottom: 24px;
+  }
+
+  .block ul li.active {
+    border-bottom: 2px solid #fc0254;
+  }
+  .ul-contact{
+      list-style: none;
+      line-height: 2;
+      padding-inline-start: 0px;
+      margin-top:40px;
+      margin-left:30px;   
+
+  }
+  .ul-contact li{
+    margin-top: 7px;
+  }
+  .contact-touch{
+      margin-top:40px;
+      margin-left:30px;   
+  }
+  .contact-lorem{
+    margin-top:40px;
+    margin-left:30px;   
+}
+
+  .contact-content{
+    font-size: 16px;
+    color: #6a7080;
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  .contact-fields input,.contact-fields textarea{
+      color: #6a7080;
+      background: #f5f6fa;
+      height:50px;
+      width:100%;
+      font-weight:500;
+      font-size:15px;
+      margin-left:10px;
+      border:none;
+      border-radius: 50px;
+      padding:10px 10px;
+      text-align: justify;
+      margin-bottom: 10px;
+      margin-top: 10px;
+
+  }
+
+  .contact-fields input:focus,
+  .contact-fields textarea:focus {
+      outline: none;
+  }
+  
+  .music-artists img{
+     height:330px ;
+     width:200px;
+     min-width: 93%;
+     border-radius: 80px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+
+  }
+  .music-artist{
+    position: relative;
+  }
+  .play-music{
+    margin-top: 60px;
+  }
+  .play-music-image img{
+      width: 130px;
+      height:130px;
+      border-radius: 30%;
+      float:left;
+  }
+  .play-music-content p{
+    color: #6a7080;
+    line-height: 1.4;
+    font-weight: 500;
+    font-size:16px;
+    padding-left:90px;
+  }
+  .audio:focus{
+      outline: none;
+
+  }
+ 
+ 
+  .play-music-content h4{
+    font-size:23px;
+    text-align: left;
+    padding-left:90px;
+  }
+  .play-music-content{
+     padding-left: 60px;
+  }
+
+  .music-artist-title h4,.music-artist-title p {
+      color: white;
+      font-weight: 500;
+      text-align: left;
+      vertical-align: middle;
+}
+.music-artists .ci-link{
+    bottom: 50px;
+    margin-right: 20px;
+    position: absolute;
+    align-items: center;
+    padding-top: 25px;
+    width: 71px;
+    height: 71px;
+    right: 29px;
+    color: #fc0254;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 50%;
+    background: white;
+
+}   
+.music-artist-title  {
+   position: absolute;
+   bottom:10px;
+   margin-left:50px;
+   align-items: initial;
+}
+.ci-link{
+    position: absolute;
+    bottom:10px;
+    margin-left:50px;
+    width: 300px;
+    height: 200px;
+}
+  
+  .music-artists{
+      margin-top: 80px;
+  }
+  .audio-control,.stars{
+      margin-top:30px;
+  }
+ .stars img{
+    padding-right: 20px;
+    padding-left: 20px;
+ }
+  
+ 
+@media only screen and (max-width : 1260px) {
+    .guitarist {
+    display: none;
+    }
+    .guitarist2{
+        width:50px;
+        display: block;
+    }
+ }
+
+ .map iframe{
+     width:100%;
+     height:100%;
+     position: absolute;
+     margin-left: 0;
+ }
+    @media only screen and (max-width : 700px) {
+        .content{
+            margin-left: 90px;
+            padding-top: 150px;
+            }
+        }
+     @media screen and (min-width: 601px) {
+            .span1 {
+              font-size: 80px;
+            }
+            .span2 {
+                font-size: 80px;
+              }
+              .lorem{
+                  font-size:18px;
+              }
+              .jumb1{
+                font-size:60px;
+              }
+              .jumb2{
+                font-size:16px;
+              }
+          }
+    
+          @media screen and (max-width: 600px) {
+            .span1 {
+                font-size: 44px;
+              }
+              .span2 {
+                font-size: 44px;
+              }
+              .lorem{
+                font-size:13px;
+            }
+            .jumb1{
+                font-size:44px;
+            }
+            .jumb2{
+                font-size:12px;
+            }
+        
+          }
+
+          @media screen and (min-width: 360px) and (max-width: 767px) {
+            .mobileList a {
+                text-align: center;
+            }
+              .mobileList {
+                  display: flex;
+                  flex-direction: column;
+              }
+              .form-box{        
+                display: block;
+                margin: 1rem auto;
+                width: 100%;
+               
+              }
+              .music-artists .ci-link{
+                bottom: 50px;
+                margin-right: 20px;
+                position: absolute;
+                align-items: center;
+                padding-top: 25px;
+                width: 71px;
+                height: 71px;
+                right: 29px;
+                color: #fc0254;
+                font-size: 16px;
+                text-align: center;
+                border-radius: 50%;
+                background: white;
+            
+            }   
+              .button5,.button4,.buttons3{
+                display: block;
+                margin: 1rem auto;
+              }
+
+              #allCollections {
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+              }
+
+              .collection-music .record a img {
+                  display: block;
+                  margin: 2rem auto;
+              }
+             
+        
+
+              .contact-fields input,.contact-fields textarea,.section-title h1,.sub h1,.sub h4,.page-no,.live-concert,
+              .play-music-image img,.container-fluid {
+                  text-align: center;
+                  display: block;
+                  margin: 1rem auto;
+              }
+              .container {
+                text-align: center;
+                display: block;
+                margin: 8rem auto;
+            }
+              .play-music-content p{
+                  text-align: left;
+              }
+              .ul-contact{
+                display: block;
+                margin: 1rem auto;
+                text-align: center;
+                
+              }
+              .search1 h1,p{
+                  display:block;
+                  margin:1rem auto;
+                  text-align: center;
+              }
+              .search2{
+              margin-top:0px;
+              }
+              .contact-touch{
+                display: block;
+                margin: 3rem auto;
+                text-align: center;
+              }
+              .contact-lorem{
+                text-align: center;
+                display: block;
+                margin: 1rem auto;
+              }
+          }
